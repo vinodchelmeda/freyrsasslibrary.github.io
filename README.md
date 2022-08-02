@@ -1,2 +1,0 @@
-# freyrsasslibrary.io
-freyr sasslibrary
